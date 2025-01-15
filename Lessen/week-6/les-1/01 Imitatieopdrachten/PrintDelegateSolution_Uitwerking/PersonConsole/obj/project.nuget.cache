@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0+2GQml63Wo=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Colin\\Documents\\GitHub\\cs_studenten\\Lessen\\week-6\\les-1\\01 Imitatieopdrachten\\PrintDelegateSolution_Uitwerking\\PersonConsole\\PersonConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SKIKK\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\SKIKK\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\SKIKK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\SKIKK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}

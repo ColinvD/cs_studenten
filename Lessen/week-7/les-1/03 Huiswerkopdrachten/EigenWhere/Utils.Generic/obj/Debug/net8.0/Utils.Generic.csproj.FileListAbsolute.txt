@@ -1,0 +1,12 @@
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\bin\Debug\net8.0\Utils.Generic.deps.json
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\bin\Debug\net8.0\Utils.Generic.dll
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\bin\Debug\net8.0\Utils.Generic.pdb
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\obj\Debug\net8.0\Utils.Generic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\obj\Debug\net8.0\Utils.Generic.AssemblyInfoInputs.cache
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\obj\Debug\net8.0\Utils.Generic.AssemblyInfo.cs
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\obj\Debug\net8.0\Utils.Generic.csproj.CoreCompileInputs.cache
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\obj\Debug\net8.0\Utils.Generic.sourcelink.json
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\obj\Debug\net8.0\Utils.Generic.dll
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\obj\Debug\net8.0\refint\Utils.Generic.dll
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\obj\Debug\net8.0\Utils.Generic.pdb
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-7\les-1\03 Huiswerkopdrachten\EigenWhere\Utils.Generic\obj\Debug\net8.0\ref\Utils.Generic.dll

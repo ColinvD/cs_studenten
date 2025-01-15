@@ -11,22 +11,22 @@ List<Building> allBuildings = new List<Building>([
 //Zie implementatie van de 'Where' methdod in 'Utils.Generic' project en codefile 'List'
 var buildingsWithRooms = allBuildings.Where(g => g.AmountOfRooms > 0);
 
-//bool bigBuildingExists = allBuildings.Any(g => g.AmountOfRooms > 50);
-//if (bigBuildingExists)
-//{
-//    Console.WriteLine("Big building exists!");
-//}
+bool bigBuildingExists = allBuildings.Any(g => g.AmountOfRooms > 50);
+if (bigBuildingExists)
+{
+    Console.WriteLine("Big building exists!");
+}
 
-//Building firstBuildingWith3Rooms = allBuildings.FirstOrDefault(g => g.AmountOfRooms == 3);
-//if (firstBuildingWith3Rooms is not null)
-//{
-//    Console.WriteLine("A building with 3 rooms is found!");
-//}
+Building firstBuildingWith3Rooms = allBuildings.FirstOrDefault(g => g.AmountOfRooms == 3);
+if (firstBuildingWith3Rooms is not null)
+{
+    Console.WriteLine("A building with 3 rooms is found!");
+}
 
 
 try
 {
-    //Building firstBuildingWith4Rooms = allBuildings.First(g => g.AmountOfRooms == 4);
+    Building firstBuildingWith4Rooms = allBuildings.First(g => g.AmountOfRooms == 4);
 }
 catch (InvalidOperationException)
 {

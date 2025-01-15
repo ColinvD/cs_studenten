@@ -1,0 +1,15 @@
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\bin\Debug\net6.0\PersonConsole.exe
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\bin\Debug\net6.0\PersonConsole.deps.json
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\bin\Debug\net6.0\PersonConsole.runtimeconfig.json
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\bin\Debug\net6.0\PersonConsole.dll
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\bin\Debug\net6.0\PersonConsole.pdb
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\PersonConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\PersonConsole.AssemblyInfoInputs.cache
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\PersonConsole.AssemblyInfo.cs
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\PersonConsole.csproj.CoreCompileInputs.cache
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\PersonConsole.sourcelink.json
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\PersonConsole.dll
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\refint\PersonConsole.dll
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\PersonConsole.pdb
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\PersonConsole.genruntimeconfig.cache
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-1\01 Imitatieopdrachten\PrintDelegateSolution_Uitwerking\PersonConsole\obj\Debug\net6.0\ref\PersonConsole.dll

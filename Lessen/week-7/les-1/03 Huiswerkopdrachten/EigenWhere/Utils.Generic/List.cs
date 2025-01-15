@@ -42,6 +42,70 @@ namespace Utils.Generic
             }
             return new List<T>(result);
         }
+
+        public T? FirstOrDefault()
+        {
+            if (data.Length == 1)
+            {
+                return data[0];
+            }
+            else
+            {
+                return default;
+            }
+        }
+
+        public T? FirstOrDefault(Func<T, bool> expression)
+        {
+            foreach (var item in data)
+            {
+                if (expression.Invoke(item))
+                {
+                    return item;
+                }
+            }
+            return default;
+        }
+
+        public T? First()
+        {
+            if (data.Length == 1)
+            {
+                return data[0];
+            }
+            else
+            {
+                throw new InvalidOperationException();
+            }
+        }
+
+        public T? First(Func<T, bool> expression)
+        {
+            foreach (var item in data)
+            {
+                if (expression.Invoke(item))
+                {
+                    return item;
+                }
+            }
+            throw new InvalidOperationException();
+        }
+        public bool Any()
+        {
+            return data.Length > 0;
+        }
+
+        public bool Any(Func<T, bool> expression)
+        {
+            foreach (var item in data)
+            {
+                if (expression.Invoke(item))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
     }
 
 }

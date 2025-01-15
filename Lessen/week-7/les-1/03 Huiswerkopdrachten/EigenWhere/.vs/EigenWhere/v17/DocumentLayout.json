@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\Colin\\Documents\\GitHub\\cs_studenten\\Lessen\\week-7\\les-1\\03 Huiswerkopdrachten\\EigenWhere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00C36A01-F870-49F9-9C17-FDEA1EB0A389}|Utils.Generic\\Utils.Generic.csproj|d:\\users\\colin\\documents\\github\\cs_studenten\\lessen\\week-7\\les-1\\03 huiswerkopdrachten\\eigenwhere\\utils.generic\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C36A01-F870-49F9-9C17-FDEA1EB0A389}|Utils.Generic\\Utils.Generic.csproj|solutionrelative:utils.generic\\list.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF642AF5-DC5C-4F8B-ABA9-9E5BECB0ADA0}|EigenWhere\\EigenWhere.csproj|d:\\users\\colin\\documents\\github\\cs_studenten\\lessen\\week-7\\les-1\\03 huiswerkopdrachten\\eigenwhere\\eigenwhere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF642AF5-DC5C-4F8B-ABA9-9E5BECB0ADA0}|EigenWhere\\EigenWhere.csproj|solutionrelative:eigenwhere\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\Colin\\Documents\\GitHub\\cs_studenten\\Lessen\\week-7\\les-1\\03 Huiswerkopdrachten\\EigenWhere\\EigenWhere\\Program.cs",
+              "RelativeDocumentMoniker": "EigenWhere\\Program.cs",
+              "ToolTip": "D:\\Users\\Colin\\Documents\\GitHub\\cs_studenten\\Lessen\\week-7\\les-1\\03 Huiswerkopdrachten\\EigenWhere\\EigenWhere\\Program.cs",
+              "RelativeToolTip": "EigenWhere\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:50:17.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "List.cs",
+              "DocumentMoniker": "D:\\Users\\Colin\\Documents\\GitHub\\cs_studenten\\Lessen\\week-7\\les-1\\03 Huiswerkopdrachten\\EigenWhere\\Utils.Generic\\List.cs",
+              "RelativeDocumentMoniker": "Utils.Generic\\List.cs",
+              "ToolTip": "D:\\Users\\Colin\\Documents\\GitHub\\cs_studenten\\Lessen\\week-7\\les-1\\03 Huiswerkopdrachten\\EigenWhere\\Utils.Generic\\List.cs",
+              "RelativeToolTip": "Utils.Generic\\List.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAIwFIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T08:49:03.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

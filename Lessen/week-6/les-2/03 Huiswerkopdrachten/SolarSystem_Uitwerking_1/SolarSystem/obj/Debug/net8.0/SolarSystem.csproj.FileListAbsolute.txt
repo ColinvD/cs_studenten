@@ -1,0 +1,15 @@
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\bin\Debug\net8.0\SolarSystem.exe
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\bin\Debug\net8.0\SolarSystem.deps.json
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\bin\Debug\net8.0\SolarSystem.runtimeconfig.json
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\bin\Debug\net8.0\SolarSystem.dll
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\bin\Debug\net8.0\SolarSystem.pdb
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\SolarSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\SolarSystem.AssemblyInfoInputs.cache
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\SolarSystem.AssemblyInfo.cs
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\SolarSystem.csproj.CoreCompileInputs.cache
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\SolarSystem.sourcelink.json
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\SolarSystem.dll
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\refint\SolarSystem.dll
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\SolarSystem.pdb
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\SolarSystem.genruntimeconfig.cache
+D:\Users\Colin\Documents\GitHub\cs_studenten\Lessen\week-6\les-2\03 Huiswerkopdrachten\SolarSystem_Uitwerking_1\SolarSystem\obj\Debug\net8.0\ref\SolarSystem.dll
